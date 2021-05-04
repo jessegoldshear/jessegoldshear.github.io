@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "Los Angeles, CA"
+title                    : "Jesse Lloyd Goldshear / Doctoral Student"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Jesse Lloyd Goldshear"
+description              : &description "PhD student at Keck Medicine of University of Southern California, Department of Preventive Medicine. I explore interactions between houselessness, substance use, and local systems of governance using community-engaged participatory methods."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : @jesselloyd_g
 facebook:
   username               :
   app_id                 :
