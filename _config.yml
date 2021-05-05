@@ -10,7 +10,7 @@ locale                   : "Los Angeles, CA"
 title                    : "Jesse Lloyd Goldshear / Doctoral Student"
 title_separator          : "-"
 name                     : &name "Jesse Lloyd Goldshear"
-description              : &description "PhD student at Keck Medicine of University of Southern California, Department of Preventive Medicine. I explore interactions between houselessness, substance use, and local systems of governance using community-engaged participatory methods."
+description              : &description "PhD student at USC"
 url                      : https://jessegoldshear.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jessegoldshear.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Jesse Lloyd Goldshear"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD student at Keck Medicine of University of Southern California, Department of Preventive Medicine. I explore interactions between houselessness, substance use, and local systems of governance using community-engaged participatory methods."
+  location         : "Los Angeles, CA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=1_iAraYAAAAJ&hl=en&oi=ao"
+  email            : "goldshea@usc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "jessegoldshear"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "www.linkedin.com/in/jesse-goldshear-242b423a"
+  orcid            : "https://orcid.org/0000-0003-2796-3520"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@jesselloyd_g"
   vine             :
   weibo            :
   xing             :
