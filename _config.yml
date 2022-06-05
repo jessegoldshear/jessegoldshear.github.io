@@ -14,7 +14,7 @@ description              : &description "PhD student at USC Keck, Population and
 url                      : "https://jessegoldshear.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jessegoldshear.github.io"
-teaser                   :  "Goldshear_Jesse.jpg"
+teaser                   : "Goldshear_Jesse.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jesse Lloyd Goldshear"
-  avatar           : "profile.png"
+  avatar           : "Goldshear_Jesse.png"
   bio              : "PhD student at USC Keck, Population and Public Health Sciences. Interested in houselessness, substance use, and harm reduction."
   location         : "Los Angeles, CA"
   employer         :
