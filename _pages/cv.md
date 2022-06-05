@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Biology: Cell, Molecular, Genetics, Boston University, 2014
+* M.P.H. in Community Health & Prevention, Drexel University Dornsife School of Public Health, 2016
+* Ph.D in Health Behavior Research, Keck Medicine of University of Southern California, 2023 (expected)
 
 Work experience
 ======
