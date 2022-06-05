@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "Los Angeles, CA"
-title                    : "Jesse Lloyd Goldshear / Doctoral Student"
+title                    : "Jesse Lloyd Goldshear, MPH PhD(c)"
 title_separator          : "-"
 name                     : &name "Jesse Lloyd Goldshear"
-description              : &description "Rising 5th year PhD student at USC"
+description              : &description "PhD student at USC"
 url                      : https://jessegoldshear.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jessegoldshear.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jesse Lloyd Goldshear"
   avatar           : "profile.png"
-  bio              : "PhD student in Health Behavior Research at Keck Medicine of University of Southern California, Department of Population and Public Health Sciences. I explore interactions between houselessness, substance use, and local systems of governance using community-engaged participatory methods."
+  bio              : "Rising 5th year PhD student in Health Behavior Research at Keck Medicine of University of Southern California, Department of Population and Public Health Sciences. I explore interactions between houselessness, substance use, and local systems of governance using community-engaged participatory methods."
   location         : "Los Angeles, CA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
