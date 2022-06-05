@@ -11,9 +11,9 @@ title                    : "Jesse Lloyd Goldshear, MPH PhD(c)"
 title_separator          : "-"
 name                     : &name "Jesse Lloyd Goldshear"
 description              : &description "PhD student at USC Keck, Population and Public Health Sciences. Interested in houselessness, substance use, and harm reduction."
-url                      : https://jessegoldshear.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://jessegoldshear.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : jessegoldshear.github.io
+repository               : "jessegoldshear.github.io"
 teaser                   :  "Goldshear_Jesse.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
